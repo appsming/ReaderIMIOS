@@ -1,0 +1,28 @@
+/*
+ Localizable.strings
+ IReaderFM
+ 
+ Created by tao song on 17/8/5.
+ Copyright © 2017年 com.wxkj. All rights reserved.
+ */
+
+/*********************侧边菜单***********************************/
+
+"slider_user_nickname" = "昵称:";
+"slider_user_collection" = "我的收藏";
+"slider_user_care" = "我关注的";
+"slider_user_parise" ="我赞过的";
+"slider_user_feedback" = "意见反馈";
+"slider_user_share" = "分享好友";
+"slider_user_set" = "系统设置";
+"slider_user_about" = "关于我们";
+/*********************消息提示***********************************/
+"dialog_title" = "温馨提示";
+"ip_dialog_ok" = "确定";
+"no_login_tologin" ="您还没有登录！";
+"ip_dialog_cancle" = "取消";
+"tip_message_error_out" = "暂无数据！";
+"tips_message_errorwork" = "暂无网络可用！";
+
+/****************************资讯详情************************************/
+"news_title_detail" = "查看详情";
